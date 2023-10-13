@@ -1,4 +1,13 @@
-### Hi there 👋
+## Gyoungju Gil 
+
+### Interests
+- Machine Learning
+- Synthetic Data Generation
+- Time Series Data Analysis
+
+### Education
+- M.S. in Statistics, University of Seoul
+- B.S. in Statistics, University of Seoul
 
 <!--
 **qw-4735/qw-4735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
